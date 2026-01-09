@@ -47,7 +47,7 @@ Since the board was manufactured using DIY methods, standard library footprints 
 * This library includes modified footprints for resistors and tactile switches with enlarged pads to prevent pad lifting during etching.
 * The custom library files can be found in `pcb_design/libraries/BenimKutuphanem`.
 
-### ⚙️ Pinout (Pmod Header JA)
+### ⚙️ Pinout (Pmod Header JB)
 | FPGA Pin | Keypad Pin | Direction |
 |----------|------------|-----------|
 | JB1    | COL 1      | Input     |
